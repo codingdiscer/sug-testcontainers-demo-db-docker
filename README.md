@@ -4,7 +4,7 @@
 
 ## Database instance details
 
-Upon spinning up the image, a single schema and table are created.  The details of the table can be found in the [init script](init-db.sh).
+Upon spinning up the image, a single schema and table are created.  The details of the table can be found in the [init schema script](1-init-schema.sh).
 
 Here's some more relevant info about the postgres instance:
 
